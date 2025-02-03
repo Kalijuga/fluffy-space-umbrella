@@ -8,5 +8,5 @@ Weichnachtsferien bis 10 da DRK
 22.01
 25.01
 28.01
-31.01
-03.02
+31.01 Basteln mit def in der auto py 0 % Ki da ich  andere Lernmethoden habe 
+03.02 Abbgabe des Blocks und import von Word 
