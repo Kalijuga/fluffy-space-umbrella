@@ -2,7 +2,7 @@
 19.12  experimente mit python turtle 0%Ki
 Weichnachtsferien bis 10 da DRK 
 10.01 Weitere Experimente mit der turtle 50% Ki war notwendig wegen mathematik und dem Canvas
-13.01 
+13.01 Fertigstellung des Projektes Liebe und probe
 16.01
 19.01
 22.01
